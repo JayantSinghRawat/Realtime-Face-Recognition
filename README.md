@@ -3,4 +3,4 @@ cv2
 os
 glob
 numpy
-face_recognition (before u need to install CMake , Wheel , Dlib)
+face_recognition (before u need to install CMake , Wheel , DLib)
